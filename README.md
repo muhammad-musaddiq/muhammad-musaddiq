@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hey there 👋
 
-<!--
-**musaddiq786/musaddiq786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Muhammad Musaddiq.
 
-Here are some ideas to get you started:
+Mainly a Full Stack Engineer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔬 Passionate about creating efficient and scalable applications.
+- ❤️ Proficient in React, TypeScript, Javascript, PHP, Wordpres, and Next Js.
+- 📚 Strong background in SaaS application development.
+- 🙏 Committed to building innovative solutions.
+- 📜 Work Experience:
+   - Full-Stack developer @ Sipli Fleet
+   - Full-Stack developer @ KoderLabs
+   - Full-Stack developer @ AQMS Tech
+
+- 🏆 Bachelor degree in computer sciences - Faculty of Sciences, Virtual University (2019)
+
+You can also find me on:
+- [Upwork](https://www.upwork.com/freelancers/~014de6bac7b5bee308?viewMode=1)
+- [LinkedIn](https://www.linkedin.com/in/muhammad-musaddiq-mustaqeem/)
