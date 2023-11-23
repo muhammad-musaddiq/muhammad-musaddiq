@@ -9,9 +9,9 @@ Mainly a Full Stack Engineer.
 - 📚 Strong background in SaaS application development.
 - 🙏 Committed to building innovative solutions.
 - 📜 Work Experience:
-   - Full-Stack developer @ Sipli Fleet
-   - Full-Stack developer @ KoderLabs
    - Full-Stack developer @ AQMS Tech
+   - Full-Stack developer @ KoderLabs
+   - Full-Stack developer @ Sipli Fleet
 
 - 🏆 Bachelor degree in computer sciences - Faculty of Sciences, Virtual University (2019)
 
