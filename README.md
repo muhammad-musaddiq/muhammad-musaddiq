@@ -13,7 +13,7 @@ Mainly a Full Stack Engineer.
    - Full-Stack developer @ KoderLabs
    - Full-Stack developer @ Sipli Fleet
 
-- 🏆 Bachelor degree in computer sciences - Faculty of Sciences, Virtual University (2019)
+- 🏆 Bachelor degree in computer sciences - Faculty of Sciences, Virtual University (2021)
 
 You can also find me on:
 - [Upwork](https://www.upwork.com/freelancers/~014de6bac7b5bee308?viewMode=1)
