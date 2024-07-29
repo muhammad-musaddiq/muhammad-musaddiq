@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-My name is [Muhammad Musaddiq](https://musaddiq.com)Muhammad Musaddiq.
+My name is [Muhammad Musaddiq](https://musaddiq.com).
 
 Mainly a Full Stack Engineer.
 
