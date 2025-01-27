@@ -15,6 +15,3 @@ Mainly a Full Stack Engineer.
 
 - 🏆 Bachelor's degree in computer sciences - Faculty of Sciences, Virtual University (2023)
 
-You can also find me on:
-- [Upwork](https://www.upwork.com/freelancers/~014de6bac7b5bee308?viewMode=1)
-- [LinkedIn](https://www.linkedin.com/in/muhammad-musaddiq-mustaqeem/)
